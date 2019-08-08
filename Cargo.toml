@@ -1,0 +1,15 @@
+[package]
+name = "tree-sitter-test"
+version = "0.1.0"
+authors = ["Felix Kohlgrüber <felix.kohlgrueber@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+stdweb = "0.4.15"
+yew = "0.6.0"
+tree-sitter = "0.3.10"
+
+[build-dependencies]
+cc = "1.0"
