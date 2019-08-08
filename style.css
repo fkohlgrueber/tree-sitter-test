@@ -1,0 +1,10 @@
+textarea {
+  width:100%; 
+  overflow-y: scroll; 
+  height: 40%;
+}
+
+html, 
+body {
+    height: 100%;
+}
